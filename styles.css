@@ -60,13 +60,13 @@ body {
     color: #fff;
     font-weight: 500;
     width: 150px;
-    border: 0;
+    border: 1px solid #001e4d;
     padding: 10px;
     margin: 20px auto 0;
     border-radius: 4px;
     cursor: pointer;
     transition: 0.3s;
-    display: block;
+    display: none;
 }
 
 #next-btn:hover {
